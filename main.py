@@ -15,5 +15,5 @@ def fibonacci(n:int):
     return result
 n = int(input())
 result = fibonacci(n)
-print("The {n}th Fibonacci of the given number is: {result}")
+print("The {n}th Fibonacci is: {result}")
 
